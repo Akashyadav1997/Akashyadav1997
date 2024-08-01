@@ -24,6 +24,7 @@
 <a href="https://instagram.com/akash97.yadav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akash97.yadav/" height="30" width="40" /></a>
 </p>
 ## Tech Stack 💻
+
 #### Languages
 ![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
