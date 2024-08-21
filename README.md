@@ -67,10 +67,6 @@
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritik955&show_icons=true&locale=en&layout=compact" alt="ritik955" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritik955&show_icons=true&locale=en" alt="ritik955" /></p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashyadav1997&show_icons=true&locale=en&layout=compact" alt="akashyadav1997" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashyadav1997&show_icons=true&locale=en" alt="akashyadav1997" /></p>
